@@ -1,1 +1,1 @@
-# A repository of all HTML works I've done during my college studies
+# A repository of all HTML works I've created during my studies
